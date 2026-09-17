@@ -13,10 +13,6 @@
 배우고, 나누고, 함께 만들며  
 한국의 Microsoft Student Ambassadors가 함께 성장하는 공간입니다.
 
-<br>
-
-`Learn` · `Share` · `Build` · `Connect`
-
 </div>
 
 <br>
